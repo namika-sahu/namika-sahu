@@ -1,6 +1,6 @@
 # Hi there, I'm Namika Sahu! 👋
 
-**Frontend Developer | Fresher | Raipur, chhattisgarh, India 🇮🇳**
+**Aspiring Frontend Developer |  BCA Graduate | Raipur, chhattisgarh, India 🇮🇳**
 
 ---
 
@@ -19,9 +19,10 @@
 
 ## 👩‍💻 About Me
 
-- 🎯 Frontend Developer looking for my first opportunity
+- 🎓 BCA Graduate | Pt. Ravishankar Shukla University Raipur
+- 🎯 Aspiring Frontend Developer | Open to Internships & Jobs
 - 🌱 Currently learning **JavaScript & React** to level up
-- 💡 I love building clean, responsive web interfaces
+- 💡 Skilled in HTML, CSS, Java, C/C++ & SQL
 - 📍 Based in **Raipur, chhattisgarh, India**
 - 📫 Reach me: **sahusomnarayan59@email.com**
 - 🚀 Open to Work!
@@ -41,5 +42,5 @@
 
 ---
 
-*"Code. Learn. Build. Repeat." 🚀*
+*"Every expert was once a beginner." 🚀*
 
