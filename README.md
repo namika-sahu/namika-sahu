@@ -30,9 +30,8 @@
 
 ## 📊 GitHub Stats
 
-![Namika's GitHub stats](https://github-readme-stats.vercel.app/api?username=namika-sahu&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namika-sahu&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub followers](https://img.shields.io/github/followers/namika-sahu?style=flat&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/namika-sahu?style=flat&color=yellow)
 ---
 
 ## 🤝 Connect With Me
